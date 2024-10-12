@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|c:\\users\\leoni\\source\\repos\\quartzproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|c:\\users\\leoni\\source\\repos\\quartzproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|c:\\users\\leoni\\source\\repos\\quartzproject\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|c:\\users\\leoni\\source\\repos\\quartzproject\\application\\queries\\getsingleproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|solutionrelative:application\\queries\\getsingleproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|c:\\users\\leoni\\source\\repos\\quartzproject\\application\\queries\\getproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|solutionrelative:application\\queries\\getproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|c:\\users\\leoni\\source\\repos\\quartzproject\\application\\products\\addproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|solutionrelative:application\\products\\addproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|c:\\users\\leoni\\source\\repos\\quartzproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|c:\\users\\leoni\\source\\repos\\quartzproject\\telefonogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C509D53-B100-4ADA-B684-F027752AEAA0}|QuartzProject.csproj|solutionrelative:telefonogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:24:18.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:23:33.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetSingleProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Application\\Queries\\GetSingleProductHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetSingleProductHandler.cs",
+              "ToolTip": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Application\\Queries\\GetSingleProductHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetSingleProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:18:57.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Application\\Queries\\GetProductHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetProductHandler.cs",
+              "ToolTip": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Application\\Queries\\GetProductHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:18:24.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Application\\Products\\AddProductHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Products\\AddProductHandler.cs",
+              "ToolTip": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Application\\Products\\AddProductHandler.cs",
+              "RelativeToolTip": "Application\\Products\\AddProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:17:52.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T23:46:07.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TelefonoGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\TelefonoGenerator.cs",
+              "RelativeDocumentMoniker": "TelefonoGenerator.cs",
+              "ToolTip": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\TelefonoGenerator.cs",
+              "RelativeToolTip": "TelefonoGenerator.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T23:34:12.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leoni\\source\\repos\\QuartzProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T23:22:22.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
